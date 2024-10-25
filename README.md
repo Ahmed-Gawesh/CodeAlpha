@@ -1,2 +1,2 @@
 # CodeAlpha
-CodeAlpha Tasks Internship
+CodeAlpha Tasks
